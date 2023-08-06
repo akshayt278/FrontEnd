@@ -1,0 +1,17 @@
+body{
+  background: #F9F9F9;
+  color: #424874;
+  margin: 0;
+}
+h1{
+  margin:0 10px 5px;
+  padding:10px 10px 5px;
+}
+p{
+  margin:0 10px 5px;
+  padding:5px 10px 10px;
+}
+div{
+  background-color: #F4EEFF;
+  border: 0;
+}

@@ -1,0 +1,44 @@
+  body {
+    background-color: #C9D6DF;
+    color: #F0F5F9;
+    margin: 0;
+    padding: 0;
+  }
+
+  .bookmark {
+    margin: 10px;
+    padding: 2% 0;
+    line-height: 1.5rem;
+  }
+
+  .heading{
+    background-color: #1E2022;
+    margin: 0;
+    padding: 30px;
+  }
+
+  a:hover{
+    color: #1E2022;
+    font-size: 105%;
+  }
+
+  h2{
+    background-color: #52616B;
+    margin: 0;
+    padding: 15px 30px 15px;
+  }
+
+  hr{
+    margin: 0;
+    border-width: 0;
+    border-top-width: 2.5px;
+  }
+
+  h3{
+    color: #52616B;
+  }
+  .general-bookmark{
+    margin: 10px;
+    padding: 0 1%;
+    line-height: 1.5rem;
+  }
